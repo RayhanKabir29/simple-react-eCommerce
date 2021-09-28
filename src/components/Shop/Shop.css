@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+.shop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
